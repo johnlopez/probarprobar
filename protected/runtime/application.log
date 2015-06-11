@@ -1,0 +1,477 @@
+2015/06/11 20:59:15 [error] [php] Undefined variable: nuevo_usuario (C:\wamp\www\yii\probarprobar\protected\models\Usuario.php:7)
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CController.php(308): CInlineAction->runWithParams()
+#1 C:\wamp\www\yii\framework\web\CController.php(286): SiteController->runAction()
+#2 C:\wamp\www\yii\framework\web\CController.php(265): SiteController->runActionWithFilters()
+#3 C:\wamp\www\yii\framework\web\CWebApplication.php(282): SiteController->run()
+#4 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#5 C:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#6 C:\wamp\www\yii\probarprobar\index.php(13): CWebApplication->run()
+REQUEST_URI=/yii/probarprobar/
+in C:\wamp\www\yii\probarprobar\protected\models\Usuario.php (7)
+in C:\wamp\www\yii\probarprobar\protected\controllers\SiteController.php (31)
+in C:\wamp\www\yii\probarprobar\index.php (13)
+2015/06/11 21:00:11 [error] [php] Undefined variable: nuevo_usuario (C:\wamp\www\yii\probarprobar\protected\models\Usuario.php:7)
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CController.php(308): CInlineAction->runWithParams()
+#1 C:\wamp\www\yii\framework\web\CController.php(286): SiteController->runAction()
+#2 C:\wamp\www\yii\framework\web\CController.php(265): SiteController->runActionWithFilters()
+#3 C:\wamp\www\yii\framework\web\CWebApplication.php(282): SiteController->run()
+#4 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#5 C:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#6 C:\wamp\www\yii\probarprobar\index.php(13): CWebApplication->run()
+REQUEST_URI=/yii/probarprobar/
+in C:\wamp\www\yii\probarprobar\protected\models\Usuario.php (7)
+in C:\wamp\www\yii\probarprobar\protected\controllers\SiteController.php (32)
+in C:\wamp\www\yii\probarprobar\index.php (13)
+2015/06/11 21:00:13 [error] [php] Undefined variable: nuevo_usuario (C:\wamp\www\yii\probarprobar\protected\models\Usuario.php:7)
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CController.php(308): CInlineAction->runWithParams()
+#1 C:\wamp\www\yii\framework\web\CController.php(286): SiteController->runAction()
+#2 C:\wamp\www\yii\framework\web\CController.php(265): SiteController->runActionWithFilters()
+#3 C:\wamp\www\yii\framework\web\CWebApplication.php(282): SiteController->run()
+#4 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#5 C:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#6 C:\wamp\www\yii\probarprobar\index.php(13): CWebApplication->run()
+REQUEST_URI=/yii/probarprobar/
+in C:\wamp\www\yii\probarprobar\protected\models\Usuario.php (7)
+in C:\wamp\www\yii\probarprobar\protected\controllers\SiteController.php (32)
+in C:\wamp\www\yii\probarprobar\index.php (13)
+2015/06/11 21:01:18 [error] [php] Undefined variable: nuevo_usuario (C:\wamp\www\yii\probarprobar\protected\models\Usuario.php:7)
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CController.php(308): CInlineAction->runWithParams()
+#1 C:\wamp\www\yii\framework\web\CController.php(286): SiteController->runAction()
+#2 C:\wamp\www\yii\framework\web\CController.php(265): SiteController->runActionWithFilters()
+#3 C:\wamp\www\yii\framework\web\CWebApplication.php(282): SiteController->run()
+#4 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#5 C:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#6 C:\wamp\www\yii\probarprobar\index.php(13): CWebApplication->run()
+REQUEST_URI=/yii/probarprobar/
+in C:\wamp\www\yii\probarprobar\protected\models\Usuario.php (7)
+in C:\wamp\www\yii\probarprobar\protected\controllers\SiteController.php (32)
+in C:\wamp\www\yii\probarprobar\index.php (13)
+2015/06/11 21:01:23 [error] [php] Undefined variable: nuevo_usuario (C:\wamp\www\yii\probarprobar\protected\models\Usuario.php:7)
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CController.php(308): CInlineAction->runWithParams()
+#1 C:\wamp\www\yii\framework\web\CController.php(286): SiteController->runAction()
+#2 C:\wamp\www\yii\framework\web\CController.php(265): SiteController->runActionWithFilters()
+#3 C:\wamp\www\yii\framework\web\CWebApplication.php(282): SiteController->run()
+#4 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#5 C:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#6 C:\wamp\www\yii\probarprobar\index.php(13): CWebApplication->run()
+REQUEST_URI=/yii/probarprobar/
+in C:\wamp\www\yii\probarprobar\protected\models\Usuario.php (7)
+in C:\wamp\www\yii\probarprobar\protected\controllers\SiteController.php (32)
+in C:\wamp\www\yii\probarprobar\index.php (13)
+2015/06/11 21:01:46 [error] [php] Undefined variable: nuevo_usuario (C:\wamp\www\yii\probarprobar\protected\models\Usuario.php:7)
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CController.php(308): CInlineAction->runWithParams()
+#1 C:\wamp\www\yii\framework\web\CController.php(286): SiteController->runAction()
+#2 C:\wamp\www\yii\framework\web\CController.php(265): SiteController->runActionWithFilters()
+#3 C:\wamp\www\yii\framework\web\CWebApplication.php(282): SiteController->run()
+#4 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#5 C:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#6 C:\wamp\www\yii\probarprobar\index.php(13): CWebApplication->run()
+REQUEST_URI=/yii/probarprobar/
+in C:\wamp\www\yii\probarprobar\protected\models\Usuario.php (7)
+in C:\wamp\www\yii\probarprobar\protected\controllers\SiteController.php (32)
+in C:\wamp\www\yii\probarprobar\index.php (13)
+2015/06/11 21:01:47 [error] [php] Undefined variable: nuevo_usuario (C:\wamp\www\yii\probarprobar\protected\models\Usuario.php:7)
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CController.php(308): CInlineAction->runWithParams()
+#1 C:\wamp\www\yii\framework\web\CController.php(286): SiteController->runAction()
+#2 C:\wamp\www\yii\framework\web\CController.php(265): SiteController->runActionWithFilters()
+#3 C:\wamp\www\yii\framework\web\CWebApplication.php(282): SiteController->run()
+#4 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#5 C:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#6 C:\wamp\www\yii\probarprobar\index.php(13): CWebApplication->run()
+REQUEST_URI=/yii/probarprobar/
+in C:\wamp\www\yii\probarprobar\protected\models\Usuario.php (7)
+in C:\wamp\www\yii\probarprobar\protected\controllers\SiteController.php (32)
+in C:\wamp\www\yii\probarprobar\index.php (13)
+2015/06/11 21:04:27 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'john' in 'field list'. The SQL statement executed was: call obtener_permiso_usuario(john).
+in C:\wamp\www\yii\probarprobar\protected\models\Usuario.php (7)
+in C:\wamp\www\yii\probarprobar\protected\controllers\SiteController.php (32)
+in C:\wamp\www\yii\probarprobar\index.php (13)
+2015/06/11 21:04:27 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand failed to execute the SQL statement: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'john' in 'field list'. The SQL statement executed was: call obtener_permiso_usuario(john)' in C:\wamp\www\yii\framework\db\CDbCommand.php:543
+Stack trace:
+#0 C:\wamp\www\yii\framework\db\CDbCommand.php(396): CDbCommand->queryInternal('fetchAll', Array, Array)
+#1 C:\wamp\www\yii\probarprobar\protected\models\Usuario.php(7): CDbCommand->queryAll()
+#2 C:\wamp\www\yii\probarprobar\protected\controllers\SiteController.php(32): Usuario->obtenerUsuario('john')
+#3 C:\wamp\www\yii\framework\web\actions\CInlineAction.php(49): SiteController->actionIndex()
+#4 C:\wamp\www\yii\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#5 C:\wamp\www\yii\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#6 C:\wamp\www\yii\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 C:\wamp\www\yii\framework\web\CWebApplication.php(282): CController->run('')
+#8 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('')
+#9 C:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#10 C:\wamp\www\yii\probarprobar\index.php(13): CApplication->run()
+#11 {main}
+REQUEST_URI=/yii/probarprobar/
+---
+2015/06/11 21:05:44 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'john' in 'field list'. The SQL statement executed was: call obtener_permiso_usuario(john).
+in C:\wamp\www\yii\probarprobar\protected\models\Usuario.php (7)
+in C:\wamp\www\yii\probarprobar\protected\controllers\SiteController.php (32)
+in C:\wamp\www\yii\probarprobar\index.php (13)
+2015/06/11 21:05:44 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand failed to execute the SQL statement: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'john' in 'field list'. The SQL statement executed was: call obtener_permiso_usuario(john)' in C:\wamp\www\yii\framework\db\CDbCommand.php:543
+Stack trace:
+#0 C:\wamp\www\yii\framework\db\CDbCommand.php(396): CDbCommand->queryInternal('fetchAll', Array, Array)
+#1 C:\wamp\www\yii\probarprobar\protected\models\Usuario.php(7): CDbCommand->queryAll()
+#2 C:\wamp\www\yii\probarprobar\protected\controllers\SiteController.php(32): Usuario->obtenerUsuario('john')
+#3 C:\wamp\www\yii\framework\web\actions\CInlineAction.php(49): SiteController->actionIndex()
+#4 C:\wamp\www\yii\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#5 C:\wamp\www\yii\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#6 C:\wamp\www\yii\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 C:\wamp\www\yii\framework\web\CWebApplication.php(282): CController->run('')
+#8 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('')
+#9 C:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#10 C:\wamp\www\yii\probarprobar\index.php(13): CApplication->run()
+#11 {main}
+REQUEST_URI=/yii/probarprobar/
+---
+2015/06/11 21:05:45 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'john' in 'field list'. The SQL statement executed was: call obtener_permiso_usuario(john).
+in C:\wamp\www\yii\probarprobar\protected\models\Usuario.php (7)
+in C:\wamp\www\yii\probarprobar\protected\controllers\SiteController.php (32)
+in C:\wamp\www\yii\probarprobar\index.php (13)
+2015/06/11 21:05:45 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand failed to execute the SQL statement: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'john' in 'field list'. The SQL statement executed was: call obtener_permiso_usuario(john)' in C:\wamp\www\yii\framework\db\CDbCommand.php:543
+Stack trace:
+#0 C:\wamp\www\yii\framework\db\CDbCommand.php(396): CDbCommand->queryInternal('fetchAll', Array, Array)
+#1 C:\wamp\www\yii\probarprobar\protected\models\Usuario.php(7): CDbCommand->queryAll()
+#2 C:\wamp\www\yii\probarprobar\protected\controllers\SiteController.php(32): Usuario->obtenerUsuario('john')
+#3 C:\wamp\www\yii\framework\web\actions\CInlineAction.php(49): SiteController->actionIndex()
+#4 C:\wamp\www\yii\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#5 C:\wamp\www\yii\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#6 C:\wamp\www\yii\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 C:\wamp\www\yii\framework\web\CWebApplication.php(282): CController->run('')
+#8 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('')
+#9 C:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#10 C:\wamp\www\yii\probarprobar\index.php(13): CApplication->run()
+#11 {main}
+REQUEST_URI=/yii/probarprobar/
+---
+2015/06/11 21:07:22 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'john' in 'field list'. The SQL statement executed was: call obtener_permiso_usuario(john).
+in C:\wamp\www\yii\probarprobar\protected\models\Usuario.php (7)
+in C:\wamp\www\yii\probarprobar\protected\controllers\SiteController.php (32)
+in C:\wamp\www\yii\probarprobar\index.php (13)
+2015/06/11 21:07:22 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand failed to execute the SQL statement: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'john' in 'field list'. The SQL statement executed was: call obtener_permiso_usuario(john)' in C:\wamp\www\yii\framework\db\CDbCommand.php:543
+Stack trace:
+#0 C:\wamp\www\yii\framework\db\CDbCommand.php(396): CDbCommand->queryInternal('fetchAll', Array, Array)
+#1 C:\wamp\www\yii\probarprobar\protected\models\Usuario.php(7): CDbCommand->queryAll()
+#2 C:\wamp\www\yii\probarprobar\protected\controllers\SiteController.php(32): Usuario->obtenerUsuario('john')
+#3 C:\wamp\www\yii\framework\web\actions\CInlineAction.php(49): SiteController->actionIndex()
+#4 C:\wamp\www\yii\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#5 C:\wamp\www\yii\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#6 C:\wamp\www\yii\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 C:\wamp\www\yii\framework\web\CWebApplication.php(282): CController->run('')
+#8 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('')
+#9 C:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#10 C:\wamp\www\yii\probarprobar\index.php(13): CApplication->run()
+#11 {main}
+REQUEST_URI=/yii/probarprobar/
+---
+2015/06/11 21:07:23 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'john' in 'field list'. The SQL statement executed was: call obtener_permiso_usuario(john).
+in C:\wamp\www\yii\probarprobar\protected\models\Usuario.php (7)
+in C:\wamp\www\yii\probarprobar\protected\controllers\SiteController.php (32)
+in C:\wamp\www\yii\probarprobar\index.php (13)
+2015/06/11 21:07:23 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand failed to execute the SQL statement: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'john' in 'field list'. The SQL statement executed was: call obtener_permiso_usuario(john)' in C:\wamp\www\yii\framework\db\CDbCommand.php:543
+Stack trace:
+#0 C:\wamp\www\yii\framework\db\CDbCommand.php(396): CDbCommand->queryInternal('fetchAll', Array, Array)
+#1 C:\wamp\www\yii\probarprobar\protected\models\Usuario.php(7): CDbCommand->queryAll()
+#2 C:\wamp\www\yii\probarprobar\protected\controllers\SiteController.php(32): Usuario->obtenerUsuario('john')
+#3 C:\wamp\www\yii\framework\web\actions\CInlineAction.php(49): SiteController->actionIndex()
+#4 C:\wamp\www\yii\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#5 C:\wamp\www\yii\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#6 C:\wamp\www\yii\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 C:\wamp\www\yii\framework\web\CWebApplication.php(282): CController->run('')
+#8 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('')
+#9 C:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#10 C:\wamp\www\yii\probarprobar\index.php(13): CApplication->run()
+#11 {main}
+REQUEST_URI=/yii/probarprobar/
+---
+2015/06/11 21:07:25 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'john' in 'field list'. The SQL statement executed was: call obtener_permiso_usuario(john).
+in C:\wamp\www\yii\probarprobar\protected\models\Usuario.php (7)
+in C:\wamp\www\yii\probarprobar\protected\controllers\SiteController.php (32)
+in C:\wamp\www\yii\probarprobar\index.php (13)
+2015/06/11 21:07:25 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand failed to execute the SQL statement: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'john' in 'field list'. The SQL statement executed was: call obtener_permiso_usuario(john)' in C:\wamp\www\yii\framework\db\CDbCommand.php:543
+Stack trace:
+#0 C:\wamp\www\yii\framework\db\CDbCommand.php(396): CDbCommand->queryInternal('fetchAll', Array, Array)
+#1 C:\wamp\www\yii\probarprobar\protected\models\Usuario.php(7): CDbCommand->queryAll()
+#2 C:\wamp\www\yii\probarprobar\protected\controllers\SiteController.php(32): Usuario->obtenerUsuario('john')
+#3 C:\wamp\www\yii\framework\web\actions\CInlineAction.php(49): SiteController->actionIndex()
+#4 C:\wamp\www\yii\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#5 C:\wamp\www\yii\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#6 C:\wamp\www\yii\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 C:\wamp\www\yii\framework\web\CWebApplication.php(282): CController->run('')
+#8 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('')
+#9 C:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#10 C:\wamp\www\yii\probarprobar\index.php(13): CApplication->run()
+#11 {main}
+REQUEST_URI=/yii/probarprobar/
+---
+2015/06/11 21:08:52 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'john' in 'field list'. The SQL statement executed was: call obtener_permiso_usuario(john).
+in C:\wamp\www\yii\probarprobar\protected\models\Usuario.php (7)
+in C:\wamp\www\yii\probarprobar\protected\controllers\SiteController.php (32)
+in C:\wamp\www\yii\probarprobar\index.php (13)
+2015/06/11 21:08:52 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand failed to execute the SQL statement: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'john' in 'field list'. The SQL statement executed was: call obtener_permiso_usuario(john)' in C:\wamp\www\yii\framework\db\CDbCommand.php:543
+Stack trace:
+#0 C:\wamp\www\yii\framework\db\CDbCommand.php(396): CDbCommand->queryInternal('fetchAll', Array, Array)
+#1 C:\wamp\www\yii\probarprobar\protected\models\Usuario.php(7): CDbCommand->queryAll()
+#2 C:\wamp\www\yii\probarprobar\protected\controllers\SiteController.php(32): Usuario->obtenerUsuario('john')
+#3 C:\wamp\www\yii\framework\web\actions\CInlineAction.php(49): SiteController->actionIndex()
+#4 C:\wamp\www\yii\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#5 C:\wamp\www\yii\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#6 C:\wamp\www\yii\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 C:\wamp\www\yii\framework\web\CWebApplication.php(282): CController->run('')
+#8 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('')
+#9 C:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#10 C:\wamp\www\yii\probarprobar\index.php(13): CApplication->run()
+#11 {main}
+REQUEST_URI=/yii/probarprobar/
+---
+2015/06/11 21:12:19 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'john' in 'field list'. The SQL statement executed was: call obtener_permiso_usuario(john).
+in C:\wamp\www\yii\probarprobar\protected\models\Usuario.php (7)
+in C:\wamp\www\yii\probarprobar\protected\controllers\SiteController.php (32)
+in C:\wamp\www\yii\probarprobar\index.php (13)
+2015/06/11 21:12:19 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand failed to execute the SQL statement: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'john' in 'field list'. The SQL statement executed was: call obtener_permiso_usuario(john)' in C:\wamp\www\yii\framework\db\CDbCommand.php:543
+Stack trace:
+#0 C:\wamp\www\yii\framework\db\CDbCommand.php(396): CDbCommand->queryInternal('fetchAll', Array, Array)
+#1 C:\wamp\www\yii\probarprobar\protected\models\Usuario.php(7): CDbCommand->queryAll()
+#2 C:\wamp\www\yii\probarprobar\protected\controllers\SiteController.php(32): Usuario->obtenerUsuario('john')
+#3 C:\wamp\www\yii\framework\web\actions\CInlineAction.php(49): SiteController->actionIndex()
+#4 C:\wamp\www\yii\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#5 C:\wamp\www\yii\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#6 C:\wamp\www\yii\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 C:\wamp\www\yii\framework\web\CWebApplication.php(282): CController->run('')
+#8 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('')
+#9 C:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#10 C:\wamp\www\yii\probarprobar\index.php(13): CApplication->run()
+#11 {main}
+REQUEST_URI=/yii/probarprobar/
+---
+2015/06/11 21:31:16 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table '3rekoadministracion.usuario' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `Usuario`.
+in C:\wamp\www\yii\probarprobar\protected\controllers\SiteController.php (31)
+in C:\wamp\www\yii\probarprobar\index.php (13)
+2015/06/11 21:31:16 [error] [exception.CDbException] exception 'CDbException' with message 'The table "Usuario" for active record class "Usuario" cannot be found in the database.' in C:\wamp\www\yii\framework\db\ar\CActiveRecord.php:2385
+Stack trace:
+#0 C:\wamp\www\yii\framework\db\ar\CActiveRecord.php(411): CActiveRecordMetaData->__construct(Object(Usuario))
+#1 C:\wamp\www\yii\framework\db\ar\CActiveRecord.php(79): CActiveRecord->getMetaData()
+#2 C:\wamp\www\yii\probarprobar\protected\controllers\SiteController.php(31): CActiveRecord->__construct()
+#3 C:\wamp\www\yii\framework\web\actions\CInlineAction.php(49): SiteController->actionIndex()
+#4 C:\wamp\www\yii\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#5 C:\wamp\www\yii\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#6 C:\wamp\www\yii\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 C:\wamp\www\yii\framework\web\CWebApplication.php(282): CController->run('')
+#8 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('')
+#9 C:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#10 C:\wamp\www\yii\probarprobar\index.php(13): CApplication->run()
+#11 {main}
+REQUEST_URI=/yii/probarprobar/
+---
+2015/06/11 21:33:37 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table '3rekoadministracion.usuario' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `Usuario`.
+in C:\wamp\www\yii\probarprobar\protected\controllers\SiteController.php (31)
+in C:\wamp\www\yii\probarprobar\index.php (13)
+2015/06/11 21:33:37 [error] [exception.CDbException] exception 'CDbException' with message 'The table "Usuario" for active record class "Usuario" cannot be found in the database.' in C:\wamp\www\yii\framework\db\ar\CActiveRecord.php:2385
+Stack trace:
+#0 C:\wamp\www\yii\framework\db\ar\CActiveRecord.php(411): CActiveRecordMetaData->__construct(Object(Usuario))
+#1 C:\wamp\www\yii\framework\db\ar\CActiveRecord.php(79): CActiveRecord->getMetaData()
+#2 C:\wamp\www\yii\probarprobar\protected\controllers\SiteController.php(31): CActiveRecord->__construct()
+#3 C:\wamp\www\yii\framework\web\actions\CInlineAction.php(49): SiteController->actionIndex()
+#4 C:\wamp\www\yii\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#5 C:\wamp\www\yii\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#6 C:\wamp\www\yii\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 C:\wamp\www\yii\framework\web\CWebApplication.php(282): CController->run('')
+#8 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('')
+#9 C:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#10 C:\wamp\www\yii\probarprobar\index.php(13): CApplication->run()
+#11 {main}
+REQUEST_URI=/yii/probarprobar/
+---
+2015/06/11 21:35:28 [error] [php] include(DatoLoginAdministrador.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory (C:\wamp\www\yii\framework\YiiBase.php:432)
+Stack trace:
+#0 C:\wamp\www\yii\probarprobar\protected\controllers\SiteController.php(32): spl_autoload_call()
+#1 C:\wamp\www\yii\framework\web\actions\CInlineAction.php(49): SiteController->actionIndex()
+#2 C:\wamp\www\yii\framework\web\CController.php(308): CInlineAction->runWithParams()
+#3 C:\wamp\www\yii\framework\web\CController.php(286): SiteController->runAction()
+#4 C:\wamp\www\yii\framework\web\CController.php(265): SiteController->runActionWithFilters()
+#5 C:\wamp\www\yii\framework\web\CWebApplication.php(282): SiteController->run()
+#6 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#7 C:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#8 C:\wamp\www\yii\probarprobar\index.php(13): CWebApplication->run()
+REQUEST_URI=/yii/probarprobar/index.php
+in C:\wamp\www\yii\probarprobar\protected\controllers\SiteController.php (32)
+in C:\wamp\www\yii\probarprobar\index.php (13)
+2015/06/11 21:36:27 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table '3rekoadministracion.datologinadministrador' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `DatoLoginAdministrador`.
+in C:\wamp\www\yii\probarprobar\protected\controllers\SiteController.php (32)
+in C:\wamp\www\yii\probarprobar\index.php (13)
+2015/06/11 21:36:27 [error] [exception.CDbException] exception 'CDbException' with message 'The table "DatoLoginAdministrador" for active record class "DatoLoginAdministrador" cannot be found in the database.' in C:\wamp\www\yii\framework\db\ar\CActiveRecord.php:2385
+Stack trace:
+#0 C:\wamp\www\yii\framework\db\ar\CActiveRecord.php(411): CActiveRecordMetaData->__construct(Object(DatoLoginAdministrador))
+#1 C:\wamp\www\yii\framework\db\ar\CActiveRecord.php(79): CActiveRecord->getMetaData()
+#2 C:\wamp\www\yii\probarprobar\protected\controllers\SiteController.php(32): CActiveRecord->__construct()
+#3 C:\wamp\www\yii\framework\web\actions\CInlineAction.php(49): SiteController->actionIndex()
+#4 C:\wamp\www\yii\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#5 C:\wamp\www\yii\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#6 C:\wamp\www\yii\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 C:\wamp\www\yii\framework\web\CWebApplication.php(282): CController->run('')
+#8 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController(false)
+#9 C:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#10 C:\wamp\www\yii\probarprobar\index.php(13): CApplication->run()
+#11 {main}
+REQUEST_URI=/yii/probarprobar/index.php
+---
+2015/06/11 21:36:59 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table '3rekoadministracion.datologinadministrador' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `DatoLoginAdministrador`.
+in C:\wamp\www\yii\probarprobar\protected\controllers\SiteController.php (32)
+in C:\wamp\www\yii\probarprobar\index.php (13)
+2015/06/11 21:36:59 [error] [exception.CDbException] exception 'CDbException' with message 'The table "DatoLoginAdministrador" for active record class "DatoLoginAdministrador" cannot be found in the database.' in C:\wamp\www\yii\framework\db\ar\CActiveRecord.php:2385
+Stack trace:
+#0 C:\wamp\www\yii\framework\db\ar\CActiveRecord.php(411): CActiveRecordMetaData->__construct(Object(DatoLoginAdministrador))
+#1 C:\wamp\www\yii\framework\db\ar\CActiveRecord.php(79): CActiveRecord->getMetaData()
+#2 C:\wamp\www\yii\probarprobar\protected\controllers\SiteController.php(32): CActiveRecord->__construct()
+#3 C:\wamp\www\yii\framework\web\actions\CInlineAction.php(49): SiteController->actionIndex()
+#4 C:\wamp\www\yii\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#5 C:\wamp\www\yii\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#6 C:\wamp\www\yii\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 C:\wamp\www\yii\framework\web\CWebApplication.php(282): CController->run('')
+#8 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController(false)
+#9 C:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#10 C:\wamp\www\yii\probarprobar\index.php(13): CApplication->run()
+#11 {main}
+REQUEST_URI=/yii/probarprobar/index.php?r=gii
+---
+2015/06/11 21:39:05 [error] [php] Undefined index: usuario (C:\wamp\www\yii\probarprobar\protected\views\site\index.php:22)
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CController.php(869): SiteController->renderFile()
+#1 C:\wamp\www\yii\framework\web\CController.php(782): SiteController->renderPartial()
+#2 C:\wamp\www\yii\probarprobar\protected\controllers\SiteController.php(38): SiteController->render()
+#3 C:\wamp\www\yii\framework\web\actions\CInlineAction.php(49): SiteController->actionIndex()
+#4 C:\wamp\www\yii\framework\web\CController.php(308): CInlineAction->runWithParams()
+#5 C:\wamp\www\yii\framework\web\CController.php(286): SiteController->runAction()
+#6 C:\wamp\www\yii\framework\web\CController.php(265): SiteController->runActionWithFilters()
+#7 C:\wamp\www\yii\framework\web\CWebApplication.php(282): SiteController->run()
+#8 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#9 C:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#10 C:\wamp\www\yii\probarprobar\index.php(13): CWebApplication->run()
+REQUEST_URI=/yii/probarprobar/index.php
+in C:\wamp\www\yii\probarprobar\protected\views\site\index.php (22)
+in C:\wamp\www\yii\probarprobar\protected\controllers\SiteController.php (38)
+in C:\wamp\www\yii\probarprobar\index.php (13)
+2015/06/11 21:40:02 [error] [php] Undefined index: usuario (C:\wamp\www\yii\probarprobar\protected\views\site\index.php:22)
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CController.php(869): SiteController->renderFile()
+#1 C:\wamp\www\yii\framework\web\CController.php(782): SiteController->renderPartial()
+#2 C:\wamp\www\yii\probarprobar\protected\controllers\SiteController.php(38): SiteController->render()
+#3 C:\wamp\www\yii\framework\web\actions\CInlineAction.php(49): SiteController->actionIndex()
+#4 C:\wamp\www\yii\framework\web\CController.php(308): CInlineAction->runWithParams()
+#5 C:\wamp\www\yii\framework\web\CController.php(286): SiteController->runAction()
+#6 C:\wamp\www\yii\framework\web\CController.php(265): SiteController->runActionWithFilters()
+#7 C:\wamp\www\yii\framework\web\CWebApplication.php(282): SiteController->run()
+#8 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#9 C:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#10 C:\wamp\www\yii\probarprobar\index.php(13): CWebApplication->run()
+REQUEST_URI=/yii/probarprobar/
+in C:\wamp\www\yii\probarprobar\protected\views\site\index.php (22)
+in C:\wamp\www\yii\probarprobar\protected\controllers\SiteController.php (38)
+in C:\wamp\www\yii\probarprobar\index.php (13)
+2015/06/11 21:40:07 [error] [php] Undefined index: usuario (C:\wamp\www\yii\probarprobar\protected\views\site\index.php:22)
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CController.php(869): SiteController->renderFile()
+#1 C:\wamp\www\yii\framework\web\CController.php(782): SiteController->renderPartial()
+#2 C:\wamp\www\yii\probarprobar\protected\controllers\SiteController.php(38): SiteController->render()
+#3 C:\wamp\www\yii\framework\web\actions\CInlineAction.php(49): SiteController->actionIndex()
+#4 C:\wamp\www\yii\framework\web\CController.php(308): CInlineAction->runWithParams()
+#5 C:\wamp\www\yii\framework\web\CController.php(286): SiteController->runAction()
+#6 C:\wamp\www\yii\framework\web\CController.php(265): SiteController->runActionWithFilters()
+#7 C:\wamp\www\yii\framework\web\CWebApplication.php(282): SiteController->run()
+#8 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#9 C:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#10 C:\wamp\www\yii\probarprobar\index.php(13): CWebApplication->run()
+REQUEST_URI=/yii/probarprobar/site/index
+in C:\wamp\www\yii\probarprobar\protected\views\site\index.php (22)
+in C:\wamp\www\yii\probarprobar\protected\controllers\SiteController.php (38)
+in C:\wamp\www\yii\probarprobar\index.php (13)
+2015/06/11 21:40:11 [error] [php] Undefined index: usuario (C:\wamp\www\yii\probarprobar\protected\views\site\index.php:22)
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CController.php(869): SiteController->renderFile()
+#1 C:\wamp\www\yii\framework\web\CController.php(782): SiteController->renderPartial()
+#2 C:\wamp\www\yii\probarprobar\protected\controllers\SiteController.php(38): SiteController->render()
+#3 C:\wamp\www\yii\framework\web\actions\CInlineAction.php(49): SiteController->actionIndex()
+#4 C:\wamp\www\yii\framework\web\CController.php(308): CInlineAction->runWithParams()
+#5 C:\wamp\www\yii\framework\web\CController.php(286): SiteController->runAction()
+#6 C:\wamp\www\yii\framework\web\CController.php(265): SiteController->runActionWithFilters()
+#7 C:\wamp\www\yii\framework\web\CWebApplication.php(282): SiteController->run()
+#8 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#9 C:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#10 C:\wamp\www\yii\probarprobar\index.php(13): CWebApplication->run()
+REQUEST_URI=/yii/probarprobar/site/index
+in C:\wamp\www\yii\probarprobar\protected\views\site\index.php (22)
+in C:\wamp\www\yii\probarprobar\protected\controllers\SiteController.php (38)
+in C:\wamp\www\yii\probarprobar\index.php (13)
+2015/06/11 21:40:14 [error] [php] Undefined index: usuario (C:\wamp\www\yii\probarprobar\protected\views\site\index.php:22)
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CController.php(869): SiteController->renderFile()
+#1 C:\wamp\www\yii\framework\web\CController.php(782): SiteController->renderPartial()
+#2 C:\wamp\www\yii\probarprobar\protected\controllers\SiteController.php(38): SiteController->render()
+#3 C:\wamp\www\yii\framework\web\actions\CInlineAction.php(49): SiteController->actionIndex()
+#4 C:\wamp\www\yii\framework\web\CController.php(308): CInlineAction->runWithParams()
+#5 C:\wamp\www\yii\framework\web\CController.php(286): SiteController->runAction()
+#6 C:\wamp\www\yii\framework\web\CController.php(265): SiteController->runActionWithFilters()
+#7 C:\wamp\www\yii\framework\web\CWebApplication.php(282): SiteController->run()
+#8 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#9 C:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#10 C:\wamp\www\yii\probarprobar\index.php(13): CWebApplication->run()
+REQUEST_URI=/yii/probarprobar/site/index
+in C:\wamp\www\yii\probarprobar\protected\views\site\index.php (22)
+in C:\wamp\www\yii\probarprobar\protected\controllers\SiteController.php (38)
+in C:\wamp\www\yii\probarprobar\index.php (13)
+2015/06/11 21:40:52 [error] [php] Undefined index: usuario (C:\wamp\www\yii\probarprobar\protected\views\site\index.php:22)
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CController.php(869): SiteController->renderFile()
+#1 C:\wamp\www\yii\framework\web\CController.php(782): SiteController->renderPartial()
+#2 C:\wamp\www\yii\probarprobar\protected\controllers\SiteController.php(38): SiteController->render()
+#3 C:\wamp\www\yii\framework\web\actions\CInlineAction.php(49): SiteController->actionIndex()
+#4 C:\wamp\www\yii\framework\web\CController.php(308): CInlineAction->runWithParams()
+#5 C:\wamp\www\yii\framework\web\CController.php(286): SiteController->runAction()
+#6 C:\wamp\www\yii\framework\web\CController.php(265): SiteController->runActionWithFilters()
+#7 C:\wamp\www\yii\framework\web\CWebApplication.php(282): SiteController->run()
+#8 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#9 C:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#10 C:\wamp\www\yii\probarprobar\index.php(13): CWebApplication->run()
+REQUEST_URI=/yii/probarprobar/site/index
+in C:\wamp\www\yii\probarprobar\protected\views\site\index.php (22)
+in C:\wamp\www\yii\probarprobar\protected\controllers\SiteController.php (38)
+in C:\wamp\www\yii\probarprobar\index.php (13)
+2015/06/11 21:40:54 [error] [php] Undefined index: usuario (C:\wamp\www\yii\probarprobar\protected\views\site\index.php:22)
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CController.php(869): SiteController->renderFile()
+#1 C:\wamp\www\yii\framework\web\CController.php(782): SiteController->renderPartial()
+#2 C:\wamp\www\yii\probarprobar\protected\controllers\SiteController.php(38): SiteController->render()
+#3 C:\wamp\www\yii\framework\web\actions\CInlineAction.php(49): SiteController->actionIndex()
+#4 C:\wamp\www\yii\framework\web\CController.php(308): CInlineAction->runWithParams()
+#5 C:\wamp\www\yii\framework\web\CController.php(286): SiteController->runAction()
+#6 C:\wamp\www\yii\framework\web\CController.php(265): SiteController->runActionWithFilters()
+#7 C:\wamp\www\yii\framework\web\CWebApplication.php(282): SiteController->run()
+#8 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#9 C:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#10 C:\wamp\www\yii\probarprobar\index.php(13): CWebApplication->run()
+REQUEST_URI=/yii/probarprobar/site/index
+in C:\wamp\www\yii\probarprobar\protected\views\site\index.php (22)
+in C:\wamp\www\yii\probarprobar\protected\controllers\SiteController.php (38)
+in C:\wamp\www\yii\probarprobar\index.php (13)
+2015/06/11 21:42:49 [error] [php] Undefined index: usuario (C:\wamp\www\yii\probarprobar\protected\views\site\index.php:22)
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CController.php(869): SiteController->renderFile()
+#1 C:\wamp\www\yii\framework\web\CController.php(782): SiteController->renderPartial()
+#2 C:\wamp\www\yii\probarprobar\protected\controllers\SiteController.php(38): SiteController->render()
+#3 C:\wamp\www\yii\framework\web\actions\CInlineAction.php(49): SiteController->actionIndex()
+#4 C:\wamp\www\yii\framework\web\CController.php(308): CInlineAction->runWithParams()
+#5 C:\wamp\www\yii\framework\web\CController.php(286): SiteController->runAction()
+#6 C:\wamp\www\yii\framework\web\CController.php(265): SiteController->runActionWithFilters()
+#7 C:\wamp\www\yii\framework\web\CWebApplication.php(282): SiteController->run()
+#8 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#9 C:\wamp\www\yii\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#10 C:\wamp\www\yii\probarprobar\index.php(13): CWebApplication->run()
+REQUEST_URI=/yii/probarprobar/index.php
+in C:\wamp\www\yii\probarprobar\protected\views\site\index.php (22)
+in C:\wamp\www\yii\probarprobar\protected\controllers\SiteController.php (38)
+in C:\wamp\www\yii\probarprobar\index.php (13)
